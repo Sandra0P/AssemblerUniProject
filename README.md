@@ -14,3 +14,6 @@ This conversion depends on instruction types, data types, and addressing types, 
 This project utilises abstraction, struct data structures, information hiding and is machine dependent.
 
 
+➡How to run:
+* Through Ubuntu - run makefile in terminal (opened in folder directory) with command "make", followed by ".\maman14"
+* Through Windows - On a project based code editor, mainfile.c should be automatically executed. Otherwise, run mainfile.c
